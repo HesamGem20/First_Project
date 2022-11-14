@@ -1,0 +1,1 @@
+node "C:\Users\Hesam joon\Desktop\Wekerle Course\Hello.js"
